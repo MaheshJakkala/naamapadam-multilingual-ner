@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# HuggingFace model cache (large files — use HF Hub instead)
+*.bin
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+model_cache/
+hf_cache/
+
+# API keys and secrets
+.env
+*.env
+secrets.yaml
+*_token.txt
+hf_token*
+
+# Data (large files — download via datasets library)
+data/
+*.parquet
+*.arrow
+*.jsonl.gz
+
+# Outputs and logs
+outputs/
+logs/
+runs/
+wandb/
+*.log
+checkpoint-*/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

@@ -1,0 +1,7 @@
+Model,Type,Precision,Recall,F1
+T5-base,Seq2Seq,8.16,4.08,5.44
+FlanT5 (5-shot),Seq2Seq,2.63,1.02,1.47
+mT5,Seq2Seq,10.53,1.96,3.31
+mBERT,Encoder,65.57,61.54,63.49
+XLM-R,Encoder,66.93,65.38,66.15
+FlanT5 (0-shot),Seq2Seq,5.41,1.54,2.4
