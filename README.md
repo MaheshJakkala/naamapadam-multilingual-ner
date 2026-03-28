@@ -110,6 +110,14 @@ naamapadam-multilingual-ner/
 │   └── 📁 model_training/             ← 3 training notebooks
 │       ├── NER_Hindi.ipynb             # Hindi: Classic + LLM FT + Few-Shot (135 cells)
 │       ├── NER_Bengali_Train.ipynb     # Bengali: Classic models (18 cells)
+│       ├── NER_Assamese_Train.ipynb
+│       ├── NER_Malayalam_Train.ipynb
+│       ├── NER_Marathi_Train.ipynb
+│       ├── NER_Punjabi_Train.ipynb
+│       ├── NER_Kannada_Train.ipynb
+│       ├── NER_Gujarathi_Train.ipynb
+│       ├── NER_Oriya_Train.ipynb
+│       ├── NER_Tamil_Train.ipynb
 │       └── NER_Telugu_Train.ipynb      # Telugu: Classic models (17 cells)
 │
 ├── 📁 results/
