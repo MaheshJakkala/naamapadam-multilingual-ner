@@ -111,7 +111,7 @@ naamapadam-multilingual-ner/
 │       ├── NER_Hindi.ipynb             # Hindi: Classic + LLM FT + Few-Shot (135 cells)
 │       ├── NER_Bengali_Train.ipynb     # Bengali: Classic models (18 cells)
 │       ├── NER_Assamese_Train.ipynb    # Assamese: Classic models (20 cells)
-│       ├── NER_Malayalam_Train.ipynb
+│       ├── NER_Malayalam_Train.ipynb   # Malayalam: Classic models (19 cells)
 │       ├── NER_Marathi_Train.ipynb
 │       ├── NER_Punjabi_Train.ipynb
 │       ├── NER_Kannada_Train.ipynb
