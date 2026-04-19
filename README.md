@@ -1,7 +1,7 @@
 # 🇮🇳 Multilingual NER on Naamapadam — A Comprehensive Study
 
 <div align="center">
-
+ 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-orange?logo=huggingface&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)
