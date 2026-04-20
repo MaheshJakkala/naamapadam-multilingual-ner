@@ -25,7 +25,7 @@ This project provides end-to-end analysis and benchmarking for NER on the **AI4B
 - 🎯 **Few-shot inference (0–5 shots)** — 9 generative models with structured prompt engineering
 
 ---
- 
+  
 ## 📊 Key Results at a Glance
 
 ### Classic NLP Models (mBERT / XLM-R win decisively)
