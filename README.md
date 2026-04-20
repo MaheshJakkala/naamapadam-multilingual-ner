@@ -1,4 +1,4 @@
-# 🇮🇳 Multilingual NER on Naamapadam — A Comprehensive Study
+# 🇮🇳 Multilingual NER on Naamapadam - A Comprehensive Study
     
 <div align="center"> 
  
@@ -9,7 +9,7 @@
 ![Models](https://img.shields.io/badge/Models-14%2B-purple)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-**A systematic benchmarking study of Named Entity Recognition (NER) across 7 Indic languages using the [Naamapadam](https://huggingface.co/datasets/ai4bharat/naamapadam) dataset — covering classic NLP models, fine-tuned LLMs, and few-shot prompting (0–5 shots) for 9 modern generative models.**
+**A systematic benchmarking study of Named Entity Recognition (NER) across 11 Indic languages using the [Naamapadam](https://huggingface.co/datasets/ai4bharat/naamapadam) dataset — covering classic NLP models, fine-tuned LLMs, and few-shot prompting (0–5 shots) for 9 modern generative models.**
   
 </div>
 
