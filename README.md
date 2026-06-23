@@ -19,8 +19,8 @@
 
 This project provides end-to-end analysis and benchmarking for NER on the **AI4Bharat Naamapadam dataset**, one of the largest manually annotated NER datasets for Indic languages. The study spans:
 
-- 🔍 **7-language exploratory data analysis** — Assamese, Bengali, Hindi, Marathi, Odia, Tamil, Telugu
-- 🏋️ **Model training & evaluation** — Hindi, Bengali, Telugu with 5 classic architectures
+- 🔍 **11-language exploratory data analysis** — Assamese, Bengali, Hindi, Marathi, Odia, Tamil, Telugu, Kannada, Gujarathi, Punjabi, Malayalam
+- 🏋️ **Model training & evaluation** — All 11 languages with 5 classic architectures
 - 🤖 **LLM fine-tuning on Hindi** — 6 modern LLMs (TinyLlama, Llama-3.2, Gemma-2, Qwen2.5, Phi-2, Mistral-7B)
 - 🎯 **Few-shot inference (0–5 shots)** — 9 generative models with structured prompt engineering
 
