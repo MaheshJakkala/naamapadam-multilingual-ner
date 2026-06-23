@@ -98,7 +98,7 @@ This project provides end-to-end analysis and benchmarking for NER on the **AI4B
 naamapadam-multilingual-ner/
 │
 ├── 📁 notebooks/
-│   ├── 📁 data_analysis/               ← 7 EDA notebooks (one per language)
+│   ├── 📁 data_analysis/               ← 11 EDA notebooks (one per language)
 │   │   ├── Assamese.ipynb              # Assamese (as) EDA
 │   │   ├── NER_Bengali_DA.ipynb        # Bengali (bn) EDA
 │   │   ├── ner_hindi_DA.ipynb          # Hindi (hi) EDA
@@ -107,7 +107,7 @@ naamapadam-multilingual-ner/
 │   │   ├── Tamil_NER.ipynb             # Tamil (ta) EDA
 │   │   └── Telugu.ipynb                # Telugu (te) EDA
 │   │
-│   └── 📁 model_training/             ← 3 training notebooks
+│   └── 📁 model_training/             ← 11 training notebooks
 │       ├── NER_Hindi.ipynb             # Hindi: Classic + LLM FT + Few-Shot (135 cells)
 │       ├── NER_Bengali_Train.ipynb     # Bengali: Classic models (18 cells)
 │       ├── NER_Assamese_Train.ipynb    # Assamese: Classic models (20 cells)
