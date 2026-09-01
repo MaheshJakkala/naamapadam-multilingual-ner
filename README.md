@@ -16,6 +16,7 @@
 ---  
 
 ## 📌 Overview
+paper: https://arxiv.org/abs/2608.29959
 
 This project provides end-to-end analysis and benchmarking for NER on the **AI4Bharat Naamapadam dataset**, one of the largest manually annotated NER datasets for Indic languages. The study spans:
 
