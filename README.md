@@ -1,4 +1,4 @@
-# 🇮🇳 Multilingual NER on Naamapadam - A Comprehensive Study
+# 🇮🇳 Generative vs. Encoder Models for Multilingual NER: A Comprehensive Empirical Study on [Naamapadam](https://huggingface.co/datasets/ai4bharat/naamapadam)
     
 <div align="center"> 
  
@@ -8,8 +8,6 @@
 ![Languages](https://img.shields.io/badge/Languages-7%20Indic-green)
 ![Models](https://img.shields.io/badge/Models-14%2B-purple)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
-
-**Generative vs. Encoder Models for Multilingual NER: A Comprehensive Empirical Study on [Naamapadam](https://huggingface.co/datasets/ai4bharat/naamapadam)**
     
 </div> 
   
