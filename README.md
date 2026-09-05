@@ -1,4 +1,7 @@
-# 🇮🇳 Generative vs. Encoder Models for Multilingual NER: A Comprehensive Empirical Study on [Naamapadam](https://huggingface.co/datasets/ai4bharat/naamapadam)
+# Encoder Models for Multilingual NER: A Comprehensive Empirical Study on [Naamapadam](https://huggingface.co/datasets/ai4bharat/naamapadam)
+
+**Author:** Jakkala Mahesh · **Co-Authors:** Jatavath Shravan Kumar, Komalla Shivani, Sujoy Sarkar
+📄 [arXiv:2608.29959](https://arxiv.org/abs/2608.29959) · 🔗 [LinkedIn](https://in.linkedin.com/in/mahesh-jakkala-6632b330b)
     
 <div align="center"> 
  
@@ -213,7 +216,7 @@ XLM-R consistently outperforms mBERT on Bengali (+5.98 F1) and Telugu (+2.66 F1)
 ### Environment Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/naamapadam-multilingual-ner.git
+git clone https://github.com/MaheshJakkala/naamapadam-multilingual-ner.git
 cd naamapadam-multilingual-ner
 pip install -r requirements.txt
 ```
@@ -334,6 +337,21 @@ See [`requirements.txt`](requirements.txt) for the full list. Core dependencies:
 - AI4Bharat. [Naamapadam Dataset on HuggingFace](https://huggingface.co/datasets/ai4bharat/naamapadam).
 
 ---
+## 📚 Citation
+
+If you use this work, please cite:
+
+\```bibtex
+@misc{jakkala2026encoder,
+  title        = {Encoder Models for Multilingual NER: A Comprehensive Empirical Study on Naamapadam},
+  author       = {Jakkala, Mahesh and Kumar, Jatavath Shravan and Shivani, Komalla and Sarkar, Sujoy},
+  year         = {2026},
+  eprint       = {2608.29959},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.CL},
+  url          = {https://arxiv.org/abs/2608.29959}
+}
+\```
 
 ## 📄 License
 
