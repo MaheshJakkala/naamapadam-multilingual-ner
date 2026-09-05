@@ -1,7 +1,7 @@
 # Generative vs. Encoder Models for Multilingual NER: A Comprehensive Empirical Study on [Naamapadam](https://huggingface.co/datasets/ai4bharat/naamapadam)
 
 **Author:** Jakkala Mahesh · **Co-Authors:** Jatavath Shravan Kumar, Komalla Shivani, Sujoy Sarkar
-  📄 [arXiv:2608.29959](https://arxiv.org/abs/2608.29959) · 🔗 [LinkedIn](https://in.linkedin.com/in/mahesh-jakkala-6632b330b)
+          📄 [arXiv:2608.29959](https://arxiv.org/abs/2608.29959) · 🔗 [LinkedIn](https://in.linkedin.com/in/mahesh-jakkala-6632b330b)
     
 <div align="center"> 
  
